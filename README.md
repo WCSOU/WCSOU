@@ -4,6 +4,15 @@
  - Ganhador de alguns prêmios por aí afora 🎖️
  - Estou focado em aprender backend.
 
+<div style="display: inline_block"><br>
+  <img align="center" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" height="50" width="70" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
+</div>
+
+ 
 <div align="center"> 
 <a href="https://github.com/WCSOU/github-readme-stats#gh-dark-mode-only">
 <img height=259 src="https://github-readme-stats.vercel.app/api/top-langs/?username=WCSOU&layout=compact&langs_count=12&hide_border=false&role=owner,collaborator&theme=radical&bg_color=020203#gh-dark-mode-only" alt="Rick Staa's Language stats" />
@@ -13,10 +22,4 @@
 </a>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" height="50" width="70" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
-</div>
+
