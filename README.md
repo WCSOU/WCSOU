@@ -26,15 +26,12 @@
 </div>
 
 ### <b>Status:</b>
-<div align="center"> 
-<a href="https://github.com/brunoconcli/github-readme-stats#gh-dark-mode-only">
-<img height=259 src="https://github-readme-stats.vercel.app/api/top-langs/?username=WCSOU&layout=compact&langs_count=12&hide_border=false&role=owner,collaborator&theme=radical&bg_color=020203#gh-dark-mode-only" alt="Status de linguagens" />
-</a>
+<div align="center">
+  <img height="160em" align="center" alt="javaScript" src="https://github-readme-stats.vercel.app/api?username=WCSOU&amp;show_icons=true&amp;theme=transparent"/> 
+  <img height="160em" align="center" alt="javaScript" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WCSOU&amp;layout=compact&amp;theme=transparent"/>
   
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WCSOU&show_icons=true&line_height=28&hide_border=false&card_width=300&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=radical&bg_color=020203#gh-dark-mode-only" alt="Status de WCSOU" />
-</a>
 </div>
+
 
 
 <i>![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Sans+Pro&pause=10&center=true&vCenter=true&random=false&width=435&lines=Muito+Obrigado+pela+visita;Espero+que+tenha+gostado;Volte+Sempre+que+quiser)</i>
