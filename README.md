@@ -5,7 +5,7 @@
  - Estou focado em aprender backend.
 
 
-### <i>Minhas habilidades:</i>
+### <b>Minhas habilidades:</b>
 <div align="center"><br>
   <img align="center" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -14,22 +14,27 @@
   <img align="center" height="50" width="70" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
 </br>
 </div>
-<div align="center">
-<br><p align="centre"><b>Quantas pessoas olharam esse perfil?</b></p>  
+
+### <b>Quantas pessoas me conhecem:</b>
+<div align="center">  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{WCSOU}/count.svg" /></p> 
 </div>
+
+### <b>Streak:</b>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=WCSOU&theme=gotham&hide_border=true&border_radius=100&date_format=n%2Fj%5B%2FY%5D"/><br/>
 </div>
+
+### <b>Status:</b>
 <div align="center"> 
-<a href="https://github.com/WCSOU/github-readme-stats#gh-dark-mode-only">
-<img height=259 src="https://github-readme-stats.vercel.app/api/top-langs/?username=WCSOU&layout=compact&langs_count=12&hide_border=false&role=owner,collaborator&theme=radical&bg_color=020203#gh-dark-mode-only" alt="Rick Staa's Language stats" />
+<a href="https://github.com/brunoconcli/github-readme-stats#gh-dark-mode-only">
+<img height=259 src="https://github-readme-stats.vercel.app/api/top-langs/?username=WCSOU&layout=compact&langs_count=12&hide_border=false&role=owner,collaborator&theme=radical&bg_color=020203#gh-dark-mode-only" alt="Status de linguagens" />
 </a>
-</div>
-<div align="center">
+  
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WCSOU&show_icons=true&line_height=28&hide_border=false&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=radical&bg_color=020203#gh-dark-mode-only" alt="WCSOU's Github stats" />
+<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WCSOU&show_icons=true&line_height=28&hide_border=false&card_width=300&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=radical&bg_color=020203#gh-dark-mode-only" alt="Status de WCSOU" />
 </a>
 </div>
+
 
 <i>![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Sans+Pro&pause=10&center=true&vCenter=true&random=false&width=435&lines=Muito+Obrigado+pela+visita;Espero+que+tenha+gostado;Volte+Sempre+que+quiser)</i>
