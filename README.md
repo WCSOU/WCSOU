@@ -1,4 +1,4 @@
-<i>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Sans+Pro&pause=10&center=true&vCenter=true&random=false&width=435&lines=Opa+b%C3%A3o+%F0%9F%91%8B%F0%9F%98%81;Este+%C3%A9+meu+perfil+do+GitHub;Seja+muito+bem+vindo!!!;Aproveite+a+visita)](https://git.io/typing-svg)</i>
+<i>![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Sans+Pro&pause=10&center=true&vCenter=true&random=false&width=435&lines=Opa+b%C3%A3o+%F0%9F%91%8B%F0%9F%98%81;Este+%C3%A9+meu+perfil+do+GitHub;Seja+muito+bem+vindo!!!;Aproveite+a+visita)</i>
 
  - Estudante de Desenvolvimento de Sistemas no  <a href="https://cotuca.unicamp.br/">COTUCA-Unicamp</a> 🇧🇷📖
  - Ganhador de alguns prêmios por aí afora 🎖️
@@ -32,4 +32,4 @@
 </a>
 </div>
 
-<i>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Sans+Pro&pause=10&center=true&vCenter=true&random=false&width=435&lines=Muito+Obrigado+pela+visita;Espero+que+tenha+gostado;Volte+Sempre+que+quiser)](https://git.io/typing-svg)</i>
+<i>![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Sans+Pro&pause=10&center=true&vCenter=true&random=false&width=435&lines=Muito+Obrigado+pela+visita;Espero+que+tenha+gostado;Volte+Sempre+que+quiser)</i>
