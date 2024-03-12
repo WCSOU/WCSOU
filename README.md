@@ -12,6 +12,16 @@
   <img align="center" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" height="50" width="70" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
+  
+</br>
+</div>
+
+
+### <b>Aprendendo:</b>
+<div align="center"><br>
+   <img align="center" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
+   
+    
 </br>
 </div>
 
