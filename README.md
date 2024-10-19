@@ -12,6 +12,7 @@
   <img align="center" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
   
   
 </br>
@@ -20,7 +21,6 @@
 
 ### <b>Aprendendo:</b>
 <div align="center"><br>
-   <img align="center" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
    <img align="center" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     
 </br>
