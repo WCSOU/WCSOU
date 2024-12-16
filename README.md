@@ -22,25 +22,15 @@
 ### <b>Aprendendo:</b>
 <div align="center"><br>
    <img align="center" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    
+   <img align="center" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </br>
-</div>
-
-### <b>Quantas pessoas me conhecem:</b>
-<div align="center">  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{WCSOU}/count.svg" /></p> 
-</div>
-
-### <b>Streak:</b>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=WCSOU&theme=gotham&hide_border=true&border_radius=100&date_format=n%2Fj%5B%2FY%5D"/><br/>
 </div>
 
 ### <b>Status:</b>
 <div align="center">
   <img height="160em" align="center" alt="javaScript" src="https://github-readme-stats.vercel.app/api?username=WCSOU&amp;show_icons=true&amp;theme=transparent"/> 
   <img height="160em" align="center" alt="javaScript" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WCSOU&amp;layout=compact&amp;theme=transparent"/>
-  
+  <img src="https://streak-stats.demolab.com?user=WCSOU&theme=gotham&hide_border=true&border_radius=100&date_format=n%2Fj%5B%2FY%5D"/><br/>
 </div>
 
 
